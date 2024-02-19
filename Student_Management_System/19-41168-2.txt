@@ -1,0 +1,62 @@
+ 
+    
+NAME: TAMIM    
+ID: 19-41168-2    
+SECTION: O    
+ACDEMIC YEAR: 2019-2023    
+COURSE: OOP-1    
+40% OF MID-TERM: 36.4    
+60% OF FINAL-TERM: 55.199999999999996    
+AFTER TAKING 60% FROM FINAL AND 40% FROM MIDTERM
+TOTAL MARK IS: 91.6
+THE GRADE IS A+    
+   **********************STUDENT NO.2***********************  
+    
+NAME: ASHIQUE    
+ID: 19-41188-2    
+SECTION: O    
+ACDEMIC YEAR: 2019-2023    
+COURSE: OPP-1    
+40% OF MID-TERM: 33.6    
+60% OF FINAL-TERM: 53.4    
+AFTER TAKING 60% FROM FINAL AND 40% FROM MIDTERM
+TOTAL MARK IS: 87.0
+THE GRADE IS A    
+   **********************STUDENT NO.2***********************  
+    
+NAME: RIFAT    
+ID: 19-5465-5    
+SECTION: O    
+ACDEMIC YEAR: 20-12    
+COURSE: OOP    
+40% OF MID-TERM: 35.6    
+60% OF FINAL-TERM: 54.0    
+AFTER TAKING 60% FROM FINAL AND 40% FROM MIDTERM
+TOTAL MARK IS: 89.6
+THE GRADE IS A    
+   **********************STUDENT NO.2***********************  
+    
+NAME: Tkjasdh    
+ID: halkjsd    
+SECTION: ueiroil    
+ACDEMIC YEAR: ncvx    
+COURSE: asdad    
+40% OF MID-TERM: 38.0    
+60% OF FINAL-TERM: 54.0    
+AFTER TAKING 60% FROM FINAL AND 40% FROM MIDTERM
+TOTAL MARK IS: 92.0
+THE GRADE IS A+    
+   **********************STUDENT INFORMATION***********************  
+    
+NAME: GAY UDAY    
+ID: 696969    
+SECTION: 69    
+ACDEMIC YEAR: 2069    
+COURSE: GAY GIRI PRO MAX    
+40% OF MID-TERM: 40.0    
+60% OF FINAL-TERM: 60.0    
+AFTER TAKING 60% FROM FINAL AND 40% FROM MIDTERM
+TOTAL MARK IS: 100.0
+THE GRADE IS A+    
+   **********************STUDENT INFORMATION***********************  
+    
